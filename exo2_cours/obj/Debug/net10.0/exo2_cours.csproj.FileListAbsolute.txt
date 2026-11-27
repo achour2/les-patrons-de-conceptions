@@ -1,0 +1,15 @@
+/workspaces/les-patrons-de-conceptions/exo2_cours/bin/Debug/net10.0/exo2_cours
+/workspaces/les-patrons-de-conceptions/exo2_cours/bin/Debug/net10.0/exo2_cours.deps.json
+/workspaces/les-patrons-de-conceptions/exo2_cours/bin/Debug/net10.0/exo2_cours.runtimeconfig.json
+/workspaces/les-patrons-de-conceptions/exo2_cours/bin/Debug/net10.0/exo2_cours.dll
+/workspaces/les-patrons-de-conceptions/exo2_cours/bin/Debug/net10.0/exo2_cours.pdb
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.AssemblyInfoInputs.cache
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.AssemblyInfo.cs
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.csproj.CoreCompileInputs.cache
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.sourcelink.json
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.dll
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/refint/exo2_cours.dll
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.pdb
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/exo2_cours.genruntimeconfig.cache
+/workspaces/les-patrons-de-conceptions/exo2_cours/obj/Debug/net10.0/ref/exo2_cours.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exo2_cours")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36636e1197cf6d1ee79ad8f3de62475e1bfa7a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af6346f286d6daed506681a6c9acee8dc62ccebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("exo2_cours")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exo2_cours")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
