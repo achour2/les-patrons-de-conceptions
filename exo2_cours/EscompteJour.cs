@@ -11,7 +11,7 @@ namespace exo2
         {
             double resultat ;
 
-            resultat = prix - (prix * 0.3) ;
+            resultat = prix - ( prix * 0.15 ) ;
             return resultat ;
         }
     }
